@@ -1,12 +1,12 @@
 # Leo Agent
 
-Leo Agent is an innovative TypeScript project that leverages AI technology to optimize yield using XIOn tokens. This intelligent agent is designed to analyze market conditions, token performance, and various other factors to maximize returns for XIOn token holders.
+Leo Agent is an innovative TypeScript project that leverages AI technology to optimize yield using ICP tokens. This intelligent agent is designed to analyze market conditions, token performance, and various other factors to maximize returns for ICP token holders.
 
 ## Features
 
 - AI-powered yield optimization
 - Real-time market analysis
-- Automated decision-making for XIOn token management
+- Automated decision-making for ICP token management
 - Performance tracking and reporting
 - User-friendly interface for easy interaction
 
@@ -41,7 +41,7 @@ To install Leo Agent, follow these steps:
 
 To use Leo Agent, follow these steps:
 
-1. Configure your XIOn token settings in the `config.ts` file.
+1. Configure your ICP token settings in the `config.ts` file.
 
 2. Build the TypeScript project:
    ```
@@ -61,7 +61,7 @@ Here's a quick tutorial to get you started with Leo Agent:
 
 1. **Setup**:
    - Ensure you have completed the installation steps mentioned above.
-   - Open the `config.ts` file and enter your XIOn token details and preferences.
+   - Open the `config.ts` file and enter your ICP token details and preferences.
 
 2. **Run the Agent**:
    - Open a terminal and navigate to the leo_agent directory.
@@ -72,7 +72,7 @@ Here's a quick tutorial to get you started with Leo Agent:
      ```
 
 3. **Initial Analysis**:
-   - The AI agent will perform an initial analysis of your XIOn tokens and current market conditions.
+   - The AI agent will perform an initial analysis of your ICP tokens and current market conditions.
    - Wait for the analysis to complete. This may take a few minutes.
 
 4. **Optimization Recommendations**:
